@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "collection": {
+    "id": "col-1772771011485-nn845ql",
+    "name": "My First Collection",
+    "description": "",
+    "icon": "FolderOpen",
+    "createdAt": 1772771011485,
+    "updatedAt": 1772771011485,
+    "members": [],
+    "visibility": "public",
+    "owner": "SquallLeonhart13",
+    "ownerType": "user"
+  }
+}
