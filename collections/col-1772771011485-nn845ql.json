@@ -6,10 +6,21 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772771011485,
+    "updatedAt": 1772771033000,
     "members": [],
     "visibility": "public",
     "owner": "SquallLeonhart13",
-    "ownerType": "user"
+    "ownerType": "user",
+    "metadata": {
+      "customRegions": [
+        {
+          "name": "Main",
+          "order": 0,
+          "createdAt": 1772771033000,
+          "id": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
+        }
+      ],
+      "layoutMode": "manual"
+    }
   }
 }
