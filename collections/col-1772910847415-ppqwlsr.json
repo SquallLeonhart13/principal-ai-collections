@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910880443,
+    "updatedAt": 1772910885857,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -67,6 +67,27 @@
           "layout": {
             "gridX": 18,
             "gridY": 5
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "qwibitai/nanoclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910885857,
+        "metadata": {
+          "name": "nanoclaw",
+          "path": "qwibitai/nanoclaw",
+          "owner": "qwibitai",
+          "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+          "language": "TypeScript",
+          "stars": 20023,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/qwibitai/nanoclaw",
+          "cloneUrl": "https://github.com/qwibitai/nanoclaw.git",
+          "layout": {
+            "gridX": 9,
+            "gridY": 3
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
