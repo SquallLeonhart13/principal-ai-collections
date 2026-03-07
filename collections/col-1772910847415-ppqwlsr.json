@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910928150,
+    "updatedAt": 1772910930655,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -44,8 +44,8 @@
           "htmlUrl": "https://github.com/microclaw/microclaw",
           "cloneUrl": "https://github.com/microclaw/microclaw.git",
           "layout": {
-            "gridX": 23,
-            "gridY": 14
+            "gridX": 21,
+            "gridY": 12
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
