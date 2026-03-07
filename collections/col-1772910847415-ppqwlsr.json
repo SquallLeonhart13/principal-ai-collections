@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910930655,
+    "updatedAt": 1772910934698,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -128,7 +128,7 @@
           "htmlUrl": "https://github.com/ApeCodeAI/nanoclaw-py",
           "cloneUrl": "https://github.com/ApeCodeAI/nanoclaw-py.git",
           "layout": {
-            "gridX": 10,
+            "gridX": 7,
             "gridY": 21
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
