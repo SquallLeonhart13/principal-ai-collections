@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772848279598,
+    "updatedAt": 1772848284097,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -71,6 +71,27 @@
           "layout": {
             "gridX": 19,
             "gridY": 16
+          },
+          "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
+        }
+      },
+      {
+        "repositoryId": "alfonsograziano/a2ha",
+        "collectionId": "col-1772771011485-nn845ql",
+        "addedAt": 1772848284097,
+        "metadata": {
+          "name": "a2ha",
+          "path": "alfonsograziano/a2ha",
+          "owner": "alfonsograziano",
+          "description": "Agent 2 Human Agent demo application",
+          "language": "TypeScript",
+          "stars": 10,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/alfonsograziano/a2ha",
+          "cloneUrl": "https://github.com/alfonsograziano/a2ha.git",
+          "layout": {
+            "gridX": 4,
+            "gridY": 5
           },
           "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
         }
