@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910859903,
+    "updatedAt": 1772910876814,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -25,6 +25,27 @@
           "layout": {
             "gridX": 10,
             "gridY": 12
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "microclaw/microclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910876814,
+        "metadata": {
+          "name": "microclaw",
+          "path": "microclaw/microclaw",
+          "owner": "microclaw",
+          "description": "🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀",
+          "language": "Rust",
+          "stars": 494,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/microclaw/microclaw",
+          "cloneUrl": "https://github.com/microclaw/microclaw.git",
+          "layout": {
+            "gridX": 23,
+            "gridY": 14
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
