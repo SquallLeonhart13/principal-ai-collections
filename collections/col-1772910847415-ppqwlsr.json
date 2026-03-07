@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910902544,
+    "updatedAt": 1772910910741,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -130,6 +130,27 @@
           "layout": {
             "gridX": 10,
             "gridY": 21
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "rayclaw/rayclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910910741,
+        "metadata": {
+          "name": "rayclaw",
+          "path": "rayclaw/rayclaw",
+          "owner": "rayclaw",
+          "description": "An agentic AI assistant built with Rust 🦀 , inspired by OpenClaw, NanoClaw, NullClaw, ZeroClaw, and MicroClaw and incorporating some of their design ideas. Contributions welcome!",
+          "language": "Rust",
+          "stars": 16,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/rayclaw/rayclaw",
+          "cloneUrl": "https://github.com/rayclaw/rayclaw.git",
+          "layout": {
+            "gridX": 4,
+            "gridY": 14
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
