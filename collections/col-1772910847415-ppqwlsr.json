@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910876814,
+    "updatedAt": 1772910880443,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -46,6 +46,27 @@
           "layout": {
             "gridX": 23,
             "gridY": 14
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "warengonzaga/tinyclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910880443,
+        "metadata": {
+          "name": "tinyclaw",
+          "path": "warengonzaga/tinyclaw",
+          "owner": "warengonzaga",
+          "description": "The original Tiny Claw as your personal autonomous AI companion. 🐜",
+          "language": "TypeScript",
+          "stars": 137,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/warengonzaga/tinyclaw",
+          "cloneUrl": "https://github.com/warengonzaga/tinyclaw.git",
+          "layout": {
+            "gridX": 18,
+            "gridY": 5
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
