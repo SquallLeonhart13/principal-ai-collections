@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910934698,
+    "updatedAt": 1772910936533,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -107,8 +107,8 @@
           "htmlUrl": "https://github.com/ysz/nanoClaw",
           "cloneUrl": "https://github.com/ysz/nanoClaw.git",
           "layout": {
-            "gridX": 18,
-            "gridY": 21
+            "gridX": 14,
+            "gridY": 20
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
