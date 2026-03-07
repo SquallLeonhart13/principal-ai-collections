@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910945539,
+    "updatedAt": 1772910982519,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -151,6 +151,27 @@
           "layout": {
             "gridX": 4,
             "gridY": 14
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "sipeed/picoclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910982518,
+        "metadata": {
+          "name": "picoclaw",
+          "path": "sipeed/picoclaw",
+          "owner": "sipeed",
+          "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+          "language": "Go",
+          "stars": 22723,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/sipeed/picoclaw",
+          "cloneUrl": "https://github.com/sipeed/picoclaw.git",
+          "layout": {
+            "gridX": 5,
+            "gridY": 6
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
