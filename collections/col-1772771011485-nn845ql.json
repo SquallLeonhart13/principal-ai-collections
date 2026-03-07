@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772848273819,
+    "updatedAt": 1772848279598,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -50,6 +50,27 @@
           "layout": {
             "gridX": 13,
             "gridY": 8
+          },
+          "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
+        }
+      },
+      {
+        "repositoryId": "agentlogs/agentlogs",
+        "collectionId": "col-1772771011485-nn845ql",
+        "addedAt": 1772848279598,
+        "metadata": {
+          "name": "agentlogs",
+          "path": "agentlogs/agentlogs",
+          "owner": "agentlogs",
+          "description": "Collaboration in the age of agentic engineering",
+          "language": "TypeScript",
+          "stars": 62,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/agentlogs/agentlogs",
+          "cloneUrl": "https://github.com/agentlogs/agentlogs.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 16
           },
           "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
         }
