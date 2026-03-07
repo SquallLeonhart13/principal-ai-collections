@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772848284097,
+    "updatedAt": 1772848289925,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -92,6 +92,27 @@
           "layout": {
             "gridX": 4,
             "gridY": 5
+          },
+          "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
+        }
+      },
+      {
+        "repositoryId": "MrLesk/Backlog.md",
+        "collectionId": "col-1772771011485-nn845ql",
+        "addedAt": 1772848289925,
+        "metadata": {
+          "name": "Backlog.md",
+          "path": "MrLesk/Backlog.md",
+          "owner": "MrLesk",
+          "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+          "language": "TypeScript",
+          "stars": 5014,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/MrLesk/Backlog.md",
+          "cloneUrl": "https://github.com/MrLesk/Backlog.md.git",
+          "layout": {
+            "gridX": 15,
+            "gridY": 20
           },
           "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
         }
