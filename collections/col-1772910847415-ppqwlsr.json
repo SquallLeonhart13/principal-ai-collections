@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910910741,
+    "updatedAt": 1772910925804,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -23,8 +23,8 @@
           "htmlUrl": "https://github.com/openclaw/openclaw",
           "cloneUrl": "https://github.com/openclaw/openclaw.git",
           "layout": {
-            "gridX": 10,
-            "gridY": 12
+            "gridX": 12,
+            "gridY": 11
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
