@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772771057643,
+    "updatedAt": 1772848273819,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -31,6 +31,27 @@
             "owner": "vercel-labs",
             "name": "skills"
           }
+        }
+      },
+      {
+        "repositoryId": "tursodatabase/agentfs",
+        "collectionId": "col-1772771011485-nn845ql",
+        "addedAt": 1772848273818,
+        "metadata": {
+          "name": "agentfs",
+          "path": "tursodatabase/agentfs",
+          "owner": "tursodatabase",
+          "description": "The filesystem for agents.",
+          "language": "Rust",
+          "stars": 2421,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/tursodatabase/agentfs",
+          "cloneUrl": "https://github.com/tursodatabase/agentfs.git",
+          "layout": {
+            "gridX": 13,
+            "gridY": 8
+          },
+          "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
         }
       }
     ],
