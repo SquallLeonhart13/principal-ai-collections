@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772857839004,
+    "updatedAt": 1772857842082,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -23,8 +23,8 @@
           "htmlUrl": "https://github.com/Principal-Forks/add-skill",
           "cloneUrl": "https://github.com/Principal-Forks/add-skill.git",
           "layout": {
-            "gridX": 8,
-            "gridY": 15
+            "gridX": 5,
+            "gridY": 18
           },
           "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8",
           "sourceRepository": {
