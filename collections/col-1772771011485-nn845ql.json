@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1772771011485,
-    "updatedAt": 1772848289925,
+    "updatedAt": 1772848293131,
     "members": [
       {
         "repositoryId": "Principal-Forks/add-skill",
@@ -113,6 +113,27 @@
           "layout": {
             "gridX": 15,
             "gridY": 20
+          },
+          "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
+        }
+      },
+      {
+        "repositoryId": "steveyegge/beads",
+        "collectionId": "col-1772771011485-nn845ql",
+        "addedAt": 1772848293131,
+        "metadata": {
+          "name": "beads",
+          "path": "steveyegge/beads",
+          "owner": "steveyegge",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "language": "Go",
+          "stars": 18274,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/steveyegge/beads",
+          "cloneUrl": "https://github.com/steveyegge/beads.git",
+          "layout": {
+            "gridX": 7,
+            "gridY": 8
           },
           "regionId": "23e1d527-4f95-4c2a-b9ce-f8ddaa4bcfb8"
         }
