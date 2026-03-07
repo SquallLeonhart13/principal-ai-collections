@@ -6,8 +6,30 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910857832,
-    "members": [],
+    "updatedAt": 1772910859903,
+    "members": [
+      {
+        "repositoryId": "openclaw/openclaw",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910859903,
+        "metadata": {
+          "name": "openclaw",
+          "path": "openclaw/openclaw",
+          "owner": "openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+          "language": "TypeScript",
+          "stars": 275263,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/openclaw/openclaw",
+          "cloneUrl": "https://github.com/openclaw/openclaw.git",
+          "layout": {
+            "gridX": 10,
+            "gridY": 12
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      }
+    ],
     "visibility": "public",
     "owner": "SquallLeonhart13",
     "ownerType": "user",
