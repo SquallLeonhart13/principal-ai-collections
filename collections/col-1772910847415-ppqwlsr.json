@@ -6,7 +6,7 @@
     "description": "Open claw Variations",
     "icon": "Cpu",
     "createdAt": 1772910847415,
-    "updatedAt": 1772910893052,
+    "updatedAt": 1772910902544,
     "members": [
       {
         "repositoryId": "openclaw/openclaw",
@@ -109,6 +109,27 @@
           "layout": {
             "gridX": 18,
             "gridY": 18
+          },
+          "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
+        }
+      },
+      {
+        "repositoryId": "ApeCodeAI/nanoclaw-py",
+        "collectionId": "col-1772910847415-ppqwlsr",
+        "addedAt": 1772910902544,
+        "metadata": {
+          "name": "nanoclaw-py",
+          "path": "ApeCodeAI/nanoclaw-py",
+          "owner": "ApeCodeAI",
+          "description": "Yet another nano alternative to OpenClaw. It can read/write files, execute commands, search the web, and schedule tasks — all in ~500 lines of Python.",
+          "language": "Python",
+          "stars": 31,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/ApeCodeAI/nanoclaw-py",
+          "cloneUrl": "https://github.com/ApeCodeAI/nanoclaw-py.git",
+          "layout": {
+            "gridX": 10,
+            "gridY": 21
           },
           "regionId": "ce22d606-ff16-4dd2-95b7-1c5bd82b25e3"
         }
