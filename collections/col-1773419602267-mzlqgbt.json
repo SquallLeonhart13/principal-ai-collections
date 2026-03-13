@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "collection": {
+    "id": "col-1773419602267-mzlqgbt",
+    "name": "Open Source Orchestrators",
+    "description": "",
+    "icon": "Network",
+    "createdAt": 1773419602267,
+    "updatedAt": 1773419602267,
+    "members": [],
+    "visibility": "public",
+    "owner": "SquallLeonhart13",
+    "ownerType": "user"
+  }
+}
