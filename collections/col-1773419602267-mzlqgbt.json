@@ -6,8 +6,30 @@
     "description": "",
     "icon": "Network",
     "createdAt": 1773419602267,
-    "updatedAt": 1773419661474,
-    "members": [],
+    "updatedAt": 1773419663289,
+    "members": [
+      {
+        "repositoryId": "manaflow-ai/cmux",
+        "collectionId": "col-1773419602267-mzlqgbt",
+        "addedAt": 1773419663289,
+        "metadata": {
+          "name": "cmux",
+          "path": "manaflow-ai/cmux",
+          "owner": "manaflow-ai",
+          "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "language": "Swift",
+          "stars": 5875,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/manaflow-ai/cmux",
+          "cloneUrl": "https://github.com/manaflow-ai/cmux.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 22
+          },
+          "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
+        }
+      }
+    ],
     "visibility": "public",
     "owner": "SquallLeonhart13",
     "ownerType": "user",
