@@ -6,7 +6,7 @@
     "description": "",
     "icon": "Network",
     "createdAt": 1773419602267,
-    "updatedAt": 1773419811904,
+    "updatedAt": 1773419865891,
     "members": [
       {
         "repositoryId": "manaflow-ai/cmux",
@@ -67,6 +67,27 @@
           "layout": {
             "gridX": 19,
             "gridY": 7
+          },
+          "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
+        }
+      },
+      {
+        "repositoryId": "wavyrai/tmux-ide",
+        "collectionId": "col-1773419602267-mzlqgbt",
+        "addedAt": 1773419865891,
+        "metadata": {
+          "name": "tmux-ide",
+          "path": "wavyrai/tmux-ide",
+          "owner": "wavyrai",
+          "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml",
+          "language": "JavaScript",
+          "stars": 99,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/wavyrai/tmux-ide",
+          "cloneUrl": "https://github.com/wavyrai/tmux-ide.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 18
           },
           "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
         }
