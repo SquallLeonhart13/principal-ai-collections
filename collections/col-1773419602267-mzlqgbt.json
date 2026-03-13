@@ -6,7 +6,7 @@
     "description": "",
     "icon": "Network",
     "createdAt": 1773419602267,
-    "updatedAt": 1773419663289,
+    "updatedAt": 1773419723387,
     "members": [
       {
         "repositoryId": "manaflow-ai/cmux",
@@ -25,6 +25,27 @@
           "layout": {
             "gridX": 19,
             "gridY": 22
+          },
+          "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
+        }
+      },
+      {
+        "repositoryId": "superset-sh/superset",
+        "collectionId": "col-1773419602267-mzlqgbt",
+        "addedAt": 1773419723387,
+        "metadata": {
+          "name": "superset",
+          "path": "superset-sh/superset",
+          "owner": "superset-sh",
+          "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+          "language": "TypeScript",
+          "stars": 6820,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/superset-sh/superset",
+          "cloneUrl": "https://github.com/superset-sh/superset.git",
+          "layout": {
+            "gridX": 12,
+            "gridY": 11
           },
           "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
         }
