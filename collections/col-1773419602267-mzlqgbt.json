@@ -6,10 +6,21 @@
     "description": "",
     "icon": "Network",
     "createdAt": 1773419602267,
-    "updatedAt": 1773419602267,
+    "updatedAt": 1773419661474,
     "members": [],
     "visibility": "public",
     "owner": "SquallLeonhart13",
-    "ownerType": "user"
+    "ownerType": "user",
+    "metadata": {
+      "customRegions": [
+        {
+          "name": "Main",
+          "order": 0,
+          "createdAt": 1773419661474,
+          "id": "e69cc110-4fde-4394-995d-8622d747a055"
+        }
+      ],
+      "layoutMode": "manual"
+    }
   }
 }
