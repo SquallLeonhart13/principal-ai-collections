@@ -6,7 +6,7 @@
     "description": "",
     "icon": "Network",
     "createdAt": 1773419602267,
-    "updatedAt": 1773419736235,
+    "updatedAt": 1773419811904,
     "members": [
       {
         "repositoryId": "manaflow-ai/cmux",
@@ -46,6 +46,27 @@
           "layout": {
             "gridX": 12,
             "gridY": 11
+          },
+          "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
+        }
+      },
+      {
+        "repositoryId": "standardagents/dmux",
+        "collectionId": "col-1773419602267-mzlqgbt",
+        "addedAt": 1773419811904,
+        "metadata": {
+          "name": "dmux",
+          "path": "standardagents/dmux",
+          "owner": "standardagents",
+          "description": "A dev agent multiplexer for git worktrees and coding agents.",
+          "language": "HTML",
+          "stars": 1076,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/standardagents/dmux",
+          "cloneUrl": "https://github.com/standardagents/dmux.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 7
           },
           "regionId": "e69cc110-4fde-4394-995d-8622d747a055"
         }
